@@ -1,5 +1,5 @@
 <?php
-	if(!isset($_POST['base_img'])){
+	if(!isset($_POST['codaluno'])){
 		die("{\"error\": \" Flopou. Cadê o base_img?\"}");
 	}
 
