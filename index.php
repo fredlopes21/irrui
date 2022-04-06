@@ -1,4 +1,15 @@
-<div class="area">
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+       <meta charset="utf-8"/>
+       <title>Entendo a estrutura e semântica do HTML5</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+
+   </head>
+   <body>
+       <p>Olá mundo!</p>
+	   
+	   <div class="area">
 			<video autoplay="true" id="webCamera">
 			</video>
 	
@@ -9,3 +20,8 @@
 			<p id="caminhoImagem" class="caminho-imagem"><a href="" target="_blank" rel="noopener"></a></p>
 			<script src="script.js"></script>
 </div>
+
+   </body>
+</html>
+
+
