@@ -7,15 +7,6 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Apenas um teste"/>
-			
-		<!--OpenType-->
-		<meta property="og:locale" content="pt_BR" />
-		<meta property="og:type" content="website" />
-		<meta property="og:title" content="" />
-		<meta property="og:description" content="" />
-		<meta property="og:url" content="" />
-		<meta property="og:site_name" content="" />
-		
 		<!--CSS-->
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
@@ -25,6 +16,7 @@
 			</video>
 			<form target="POST">
 				<textarea  type="text" id="base_img" name="base_img"></textarea>
+				<p>Codigo do Aluno: <input type="text" name="codaluno"></p>
 				<button type="button" onclick="takeSnapShot()">Tirar foto e salvar</button>
 			</form>
 			<img id="imagemConvertida"/>
