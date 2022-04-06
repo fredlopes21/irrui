@@ -9,12 +9,15 @@
     <title>Foto Aluno</title>
   </head>
   <body>
-    <form action="gravar.php" method="POST" enctype="multipart/form-data">
-		<label for="imagem">Imagem:</label>
-		<input type="file" name="imagem"/>
-		<br/>
-		<input type="submit" value="Enviar"/>
-	  </form>
+    <form method="post" action="recebe_upload.php" enctype="multipart/form-data">
+<label>Arquivo:</label>
+<input type="file" name="arquivo" />
+	    <input type="text" name="codaluno"/>
+<input type="submit" value="Enviar" />
+</form>
+
+
+Read more: http://www.linhadecodigo.com.br/artigo/3578/php-upload-de-arquivos.aspx#ixzz7Pi1d9qoe
     
     
      <!-- Optional JavaScript; choose one of the two! -->
