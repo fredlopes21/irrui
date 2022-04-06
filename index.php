@@ -4,6 +4,7 @@
        <meta charset="utf-8"/>
        <title>Entendo a estrutura e semântica do HTML5</title>
    <link rel="stylesheet" type="text/css" href="style.css">
+	   <script src="script.js"></script>
 
    </head>
    <body>
