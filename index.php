@@ -8,7 +8,6 @@
 
    </head>
    <body>
-       <p>Olá mundo!</p>
 	   
 	   <div class="area">
 			<video autoplay="true" id="webCamera">
