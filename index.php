@@ -15,8 +15,8 @@
 			<video autoplay="true" id="webCamera">
 			</video>
 			<form target="POST">
-				<textarea  type="text" id="base_img" name="base_img"></textarea>
-				<p>Codigo do Aluno: <input type="text" name="codaluno"></p>
+				<!--<textarea  type="text" id="base_img" name="base_img"></textarea>-->
+				<p>Codigo do Aluno: <input type="text" id="base_img" name="base_img"></p>
 				<button type="button" onclick="takeSnapShot()">Tirar foto e salvar</button>
 			</form>
 			<img id="imagemConvertida"/>
