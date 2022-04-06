@@ -5,7 +5,7 @@
 
  <title>Tutorial WebCam Blog Jonathas Guerra</title>
 
- <script type="text/javascript" src="webcamjs-master/webcam.min.js"></script>
+ <script type="text/javascript" src="https://github.com/jhuckaby/webcamjs/blob/master/webcam.min.js"></script>
 
  <script language="JavaScript">
 
