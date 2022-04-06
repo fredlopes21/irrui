@@ -17,8 +17,7 @@
 </form>
 
 
-Read more: http://www.linhadecodigo.com.br/artigo/3578/php-upload-de-arquivos.aspx#ixzz7Pi1d9qoe
-    
+   
     
      <!-- Optional JavaScript; choose one of the two! -->
     <!-- Option 1: Bootstrap Bundle with Popper -->
