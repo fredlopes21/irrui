@@ -8,7 +8,7 @@
 	$result = [];
 	$data = str_replace(" ","+",$_POST['base_img']); //O envio do dado pelo XMLHttpRequest tende a trocar o + por espaço, por isso a necessidade de substituir. 
 	//$name = md5(time().uniqid());
-	$name = $_POST['codaluno'];
+	$name = $_POST['base_img'];
 	$path = "snaps/{$name}.jpg";
 
 	//data
