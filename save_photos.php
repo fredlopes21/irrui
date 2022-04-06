@@ -17,4 +17,5 @@
 	//Print Data
 	$result['img'] = $path;
 	echo json_encode($result, JSON_PRETTY_PRINT);
+
 ?>
